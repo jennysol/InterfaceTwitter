@@ -61,13 +61,34 @@ export const Content = styled.div `
 
 `;
 export const Header = styled.div `
+    display: flex;
+    align-items: center;
+
+    font-size: 15px;
+    white-space: 5px;
+
+    > strong {
+        margin-right: 5px;
+    }
     
+    > span, time {
+        color: var(--gray);
+    }
+
+    > strong, span {
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+    }
 `;
 export const Dot = styled.div`
 
 `;
 export const Description = styled.div `
-
+    background: var(--gray);
+    width: 2px;
+    height: 2px;
+    margin: 0 10px;
 `;
 export const ImageContent = styled.div `
 
