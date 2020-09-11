@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Interface Twitter Clone
 Projeto desenvolvido para aprimorar tecnicas de Styles
 Link:
-https://github.com/jennysol/InterfaceTwitter/blob/master/twtter.jpeg
+https://twitterclone-gray.vercel.app/
 
 ![Layout](https://github.com/jennysol/InterfaceTwitter/blob/master/twtter.jpeg)
 
